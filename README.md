@@ -1,5 +1,5 @@
 <h2>Definición de tablas - Desafío evaluado</h2>
-<p>Uso de pdAdmin4 para crear una <a href='.DE-Peliculas.sql'>base de datos</a> importando archivos excel.csv que contiene 100 títulos de películas y otro con el reparto de cada una.</p>
+<p>Uso de pdAdmin4 para crear una <a href='[.DE-Peliculas.sql](https://github.com/PauliPuli/DE-Peliculas/blob/main/DE-Peliculas.sql)'>base de datos</a> importando archivos excel.csv que contiene 100 títulos de películas y otro con el reparto de cada una.</p>
 <ol>
 <li>Crear una base de datos llamada películas</li>
 <img src='./img/requerimiento-1.png'>
