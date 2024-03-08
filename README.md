@@ -1,5 +1,5 @@
 <h2>Definición de tablas - Desafío evaluado</h2>
-<p>Uso de pdAdmin4 para crear una base de datos importando archivos excel.csv que contiene 100 títulos de películas y otro con el reparto de cada una.</p>
+<p>Uso de pdAdmin4 para crear una <a href='.DE-Peliculas.sql'>base de datos</a> importando archivos excel.csv que contiene 100 títulos de películas y otro con el reparto de cada una.</p>
 <ol>
 <li>Crear una base de datos llamada películas</li>
 <img src='./img/requerimiento-1.png'>
@@ -20,6 +20,7 @@
 <p>En este caso como queremos visualizar el id de la película, sólo llamamos a las columna "pelicula_id" y "película":</p>
 <p>select pelicula_id, pelicula from peliculas where pelicula='Titanic';</p>
 <img src="./img/requerimiento-3-idTitanic.png">
+  <hr>
 <li>Listar a todos los actores que aparecen en la película "Titanic".</li>
 <img src='./img/requerimiento-4modo1.png'>
 <p>Modo 1: En este caso lo primero que solicité a la tabla fue que seleccionara la columna actor y película de la tabla Película uniendola al reparto_id de la tabla Reparto</p>
